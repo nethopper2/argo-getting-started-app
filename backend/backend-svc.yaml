@@ -6,8 +6,6 @@ metadata:
     app: backend
     service: backend
   annotations:
-    nethopper.io/tag-core: 'true'
-    nethopper.io/service: 'true'
 spec:
   ports:
     - port: 8080
