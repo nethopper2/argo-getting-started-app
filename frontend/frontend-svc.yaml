@@ -6,7 +6,6 @@ metadata:
     service: frontend
   name: frontend
   annotations:
-    nethopper.io/tag-core: 'true'
 spec:
   externalTrafficPolicy: Cluster
   internalTrafficPolicy: Cluster
